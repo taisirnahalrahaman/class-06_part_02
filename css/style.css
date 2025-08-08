@@ -1,0 +1,280 @@
+/* All common CSS files should start here */
+* {
+     margin: 0;
+     padding: 0;
+ }
+/* All common CSS files should end here */
+
+.Polish_Kaku {
+    width: 600px;
+    height: 600px;
+    background-color: aquamarine;
+    margin: 0 auto;
+    position: relative;
+}
+
+.Chor_Moshai_one {
+    height: 100px;
+    width: 100px;
+    background: blueviolet;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.Chor_Moshai_one_a{
+    height: 50px;
+    width: 50px;
+    background: sandybrown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_one_a_x {
+    height: 25px;
+    width: 25px;
+    background: palevioletred;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_two {
+    height: 100px;
+    width: 100px;
+    background: blueviolet;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.Chor_Moshai_two_a {
+    height: 50px;
+    width: 50px;
+    background: sandybrown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_two_a_x {
+    height: 25px;
+    width: 25px;
+    background: palevioletred;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_three {
+    height: 100px;
+    width: 100px;
+    background: blueviolet;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.Chor_Moshai_three_a {
+    height: 50px;
+    width: 50px;
+    background: sandybrown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_three_a_x {
+    height: 25px;
+    width: 25px;
+    background: palevioletred;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_four {
+    height: 100px;
+    width: 100px;
+    background: blueviolet;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+
+.Chor_Moshai_four_a {
+    height: 50px;
+    width: 50px;
+    background: sandybrown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_four_a_x {
+    height: 25px;
+    width: 25px;
+    background: palevioletred;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_five {
+    height: 100px;
+    width: 100px;
+    background: blueviolet;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_five_a {
+    height: 50px;
+    width: 50px;
+    background: sandybrown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_five_a_x {
+    height: 25px;
+    width: 25px;
+    background: palevioletred;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_six {
+    height: 100px;
+    width: 100px;
+    background: blueviolet;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.Chor_Moshai_six_a {
+    height: 50px;
+    width: 50px;
+    background: sandybrown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_six_a_x {
+    height: 25px;
+    width: 25px;
+    background: palevioletred;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_seven {
+    height: 100px;
+    width: 100px;
+    background: blueviolet;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.Chor_Moshai_seven_a {
+    height: 50px;
+    width: 50px;
+    background: sandybrown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_seven_a_x {
+    height: 25px;
+    width: 25px;
+    background: palevioletred;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_eight {
+    height: 100px;
+    width: 100px;
+    background: blueviolet;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.Chor_Moshai_eight_a {
+    height: 50px;
+    width: 50px;
+    background: sandybrown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_eight_a_x {
+    height: 25px;
+    width: 25px;
+    background: palevioletred;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_nine {
+    height: 100px;
+    width: 100px;
+    background: blueviolet;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.Chor_Moshai_nine_a {
+    height: 50px;
+    width: 50px;
+    background: sandybrown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Chor_Moshai_nine_a_x {
+    height: 25px;
+    width: 25px;
+    background: palevioletred;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
