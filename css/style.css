@@ -22,7 +22,7 @@
     left: 0;
 }
 
-.Chor_Moshai_one_a{
+.Chor_Moshai_one_a {
     height: 50px;
     width: 50px;
     background: sandybrown;
@@ -277,4 +277,5 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
+
 }
